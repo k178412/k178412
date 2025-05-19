@@ -1,16 +1,18 @@
-## Hi there 👋
+🚀 Welcome to My GitHub Profile!
 
-<!--
-**k178412/k178412** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 Hi, I'm Tarun—passionate about **data engineering, analytics, and visualization**.
 
-Here are some ideas to get you started:
+🔥 Projects
+- 🏢 **SQL Data Warehouse** - Designed and implemented an efficient data warehouse for structured storage and fast querying.
+- 🔍 **SQL Exploratory Data Analysis (EDA)** - Leveraged Data Warehouse (prev project) for meaningful insights.
+- 📊 **Power BI Dashboard** - Built interactive dashboards to visualize trends and business metrics.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💡 Tech Stack & Skills
+- **Data Analysis** - Excel, SQL
+- **Visualization** - Power BI
+- **Data Engineering** - ETL, Data Warehousing
+
+
+
+
+
