@@ -1,18 +1,17 @@
-🚀 Welcome to My GitHub Profile!
+## 🌟 Hey, welcome to my GitHub!
+So glad you dropped by 👋
 
-👋 Hi, I'm Tarun—passionate about **data engineering, analytics, and visualization**.
+I’m someone who enjoys working with data, learning through real projects, and turning confusion into clarity (one SQL query at a time).     
+On this page, you’ll mostly find:
+- 📊 Power BI dashboards I’ve built to tell better data stories
+- 🏗️ A SQL data warehouse project where I played architect and analyst
+- 🧠 SQL based exploratory analysis that helped me dig into trends and patterns
 
-🔥 Projects
-- 🏢 **SQL Data Warehouse** - Designed and implemented an efficient data warehouse for structured storage and fast querying.
-- 🔍 **SQL Exploratory Data Analysis (EDA)** - Leveraged Data Warehouse (prev project) for meaningful insights.
-- 📊 **Power BI Dashboard** - Built interactive dashboards to visualize trends and business metrics.
+I’m currently exploring the world of data analysis and working toward landing a full-time role. This space is kind of like my learning journal, portfolio, and playground - all rolled into one.
 
-💡 Tech Stack & Skills
-- **Data Analysis** - Excel, SQL
-- **Visualization** - Power BI
-- **Data Engineering** - ETL, Data Warehousing
+Whether you’re here to learn, collaborate, or just curious - thanks for stopping by!  
 
+Let’s grow together 🚀
 
-
-
-
+Cookies welcome 🍪  
+Code included 💻
