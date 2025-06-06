@@ -2,8 +2,8 @@
 So glad you dropped by 👋
 
 I’m someone who enjoys working with data, learning through real projects, and turning confusion into clarity (one SQL query at a time).     
-On this page, you’ll mostly find:
-- 📊 Power BI dashboards I’ve built to tell better data stories
+On this page, you’ll find:
+- 📊 A Power BI dashboard I’ve built to tell better data stories
 - 🏗️ A SQL data warehouse project where I played architect and analyst
 - 🧠 SQL based exploratory analysis that helped me dig into trends and patterns
 
