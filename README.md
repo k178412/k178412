@@ -16,7 +16,7 @@ Let’s grow together 🚀
 Cookies welcome 🍪  
 Code included 💻
 
-## 🌐 Socials:
+## 🌐 Socials
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tarun-kumar-508990192/)
 [![HackerRank](https://img.shields.io/badge/HackerRank-111822?style=for-the-badge&logo=HackerRank&logoColor=2EC866)](https://www.hackerrank.com/profile/kTarun)
