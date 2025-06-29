@@ -1,19 +1,19 @@
 ## 🌟 Hey, welcome to my GitHub!
 So glad you dropped by 👋
 
-I’m someone who enjoys working with data, learning through real projects, and turning confusion into clarity (one SQL query at a time).     
-On this page, you’ll find:
-- 📊 A Power BI dashboard I’ve built to tell better data stories
-- 🏗️ A SQL data warehouse project where I played architect and analyst
-- 🧠 SQL based exploratory analysis that helped me dig into trends and patterns
+I’m someone who enjoys working with data, learning through real projects, and turning confusion into clarity (one SQL query or Power BI visual at a time).  
 
-I’m currently exploring the world of data analysis and working toward landing a full-time role. This space is kind of like my learning journal, portfolio, and playground - all rolled into one.
+Here on my GitHub, you’ll find:
+- 📊 A Power BI dashboard that tells a data-driven sales story
+- 🏗️ A SQL data warehouse project built with Medallion Architecture
+- 🔍 An SQL-based exploratory analysis uncovering customer and product trends
+
+This space is kind of like my learning journal, portfolio, and playground - all rolled into one.
 
 Whether you’re here to learn, collaborate, or just curious - thanks for stopping by!  
 
-Let’s grow together 🚀
-
-Cookies welcome 🍪  
+Let’s grow together 🚀  
+Cookies welcome 🍪    
 Code included 💻
 
 ## 🌐 Socials
@@ -23,11 +23,12 @@ Code included 💻
 
 ## 🧰 Tech Stack
 
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MS SQL Server](https://img.shields.io/badge/MS_SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![DAX](https://img.shields.io/badge/DAX-0C2340?style=for-the-badge&logo=powerbi&logoColor=yellow)
+![Power Query](https://img.shields.io/badge/Power_Query-742774?style=for-the-badge&logo=powerbi&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
